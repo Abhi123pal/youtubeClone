@@ -12,8 +12,8 @@ const Header = () => {
         <div className="searchcontainer">
           <input type="text" placeholder="Search" className="searchbox" />
           <div className="searchcon">
-          <img src={Img.Header.searchicon} className="searchicon icon" />
-        </div>
+            <img src={Img.Header.searchicon} className="searchicon icon" />
+          </div>
         </div>
       </div>
       <div className="right">

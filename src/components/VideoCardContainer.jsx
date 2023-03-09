@@ -12,6 +12,14 @@ const VideoCardContainer = () => {
       <VideoCard />
       <VideoCard />
       <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
+      <VideoCard />
     </div>
   );
 };
